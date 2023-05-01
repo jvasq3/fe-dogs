@@ -9,6 +9,8 @@ This project displays a list of dogs from a pre-populated list of dogs with attr
 
 In root:
 
+node version: 14
+
 `npm install`
 
 `npm start`
